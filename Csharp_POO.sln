@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturasCondicao", "Estru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaBancaria", "ContaBancaria\ContaBancaria.csproj", "{1BB1F6C3-033B-4E02-B8EA-C168ECDE6DC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleEstoque", "ControleEstoque\ControleEstoque.csproj", "{7F6A211D-CDBB-4CFE-BEFA-BE1578E9F47B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,13 @@ Global
 		{1BB1F6C3-033B-4E02-B8EA-C168ECDE6DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BB1F6C3-033B-4E02-B8EA-C168ECDE6DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB1F6C3-033B-4E02-B8EA-C168ECDE6DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37724DF1-F999-4417-BFCC-FBBCEAD183BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37724DF1-F999-4417-BFCC-FBBCEAD183BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37724DF1-F999-4417-BFCC-FBBCEAD183BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37724DF1-F999-4417-BFCC-FBBCEAD183BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6A211D-CDBB-4CFE-BEFA-BE1578E9F47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6A211D-CDBB-4CFE-BEFA-BE1578E9F47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6A211D-CDBB-4CFE-BEFA-BE1578E9F47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6A211D-CDBB-4CFE-BEFA-BE1578E9F47B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
